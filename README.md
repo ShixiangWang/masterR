@@ -17,3 +17,10 @@
 
 
 如果你觉得有些内容是精华或者缺乏说明的，欢迎你在阅读的同时在<https://github.com/ShixiangWang/masterR/wiki>写相关内容的说明。也可以提交Issues进行讨论。
+
+如果你觉得内容需要修正，你可以直接fork后参与仓库文档编辑，然后提交合并申请。
+
+谢谢。
+
+——[王诗翔](http://www.jianshu.com/u/b6608e27dc74)
+
