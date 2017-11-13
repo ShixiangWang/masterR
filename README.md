@@ -8,6 +8,8 @@
 
 有兴趣的朋友可以关注简书专题[Cook R](http://www.jianshu.com/c/7a295a2306de)的系列文章或者关注我写R笔记的文集<http://www.jianshu.com/nb/11477291>和<http://www.jianshu.com/nb/16048408>等，这里的更新是最频繁的。
 
+**注**：Github对Jupyter notebook的支持不是特别好，我刚发现Jupyter与Github有个合作的nbviewer非常好用，这里提供本仓库的链接：<http://nbviewer.jupyter.org/github/ShixiangWang/masterR/tree/master/>
+
 仓库分为5个文件目录：
 
 - archive：存一些之前写的笔记，可能会有点杂乱
