@@ -2,6 +2,8 @@
 
 这个Repository将是我整理一些R笔记的仓库。
 
+> 如果你倾向于使用Python进行数据分析和处理，fork仓库<https://github.com/wesm/pydata-book>进行学习将是非常不错的选择，我也有一个Python学习仓库，位于<https://github.com/ShixiangWang/iLearning>，里面存了Python一些资料和一些乱七八糟的东西。
+
 一般我会先在简书上更新我的笔记或是一些想法，因为平时的想法大都比较零散，所以一般的小篇幅笔记或者代码我不会再同时更新到博客<ShixiangWang.github.io>上了，而是选择比较精彩和非常有价值的放博客上，这样的管理方式会比较恰当，不然每次不同的资源上更新同样的内容显得繁琐和枯燥。
 
 有兴趣的朋友可以关注简书专题[Cook R](http://www.jianshu.com/c/7a295a2306de)的系列文章或者关注我写R笔记的文集<http://www.jianshu.com/nb/11477291>和<http://www.jianshu.com/nb/16048408>等，这里的更新是最频繁的。
