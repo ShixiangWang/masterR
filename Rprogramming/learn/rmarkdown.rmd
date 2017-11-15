@@ -118,3 +118,10 @@ R markdown头部可以添加一些YAML参数，比如使用`data`参数方便以
 ![](http://rmarkdown.rstudio.com/lesson-images/interactive-2-shiny.png)
 
 
+### 最后
+
+[Rmarkdown手册](https://github.com/ShixiangWang/masterR/blob/master/reference/rmarkdown-reference.pdf)
+
+[Rmarkdown checksheet](https://github.com/ShixiangWang/masterR/blob/master/reference/rmarkdown-2.0.pdf)
+
+
