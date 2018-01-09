@@ -1,5 +1,7 @@
 # masterR
 
+[![GitHub stars](https://img.shields.io/github/stars/ShixiangWang/masterR.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ShixiangWang/masterR/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/ShixiangWang/masterR.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/ShixiangWang/masterR/network/)  [![GitHub watchers](https://img.shields.io/github/watchers/ShixiangWang/masterR.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/ShixiangWang/masterR/watchers/)
+
 这个Repository将是我整理一些R笔记的仓库，最近也一直在整理和翻译[Cook for R](https://github.com/ShixiangWang/Cookbook-for-R-Chinese)内容，这是一个不错的学习资源，也许会给你提供一些需要的数据处理和分析解决方案。
 
 > 如果你倾向于使用Python进行数据分析和处理，fork仓库<https://github.com/wesm/pydata-book>进行学习将是非常不错的选择，我也有一个Python学习仓库，位于<https://github.com/ShixiangWang/iLearning>，里面存了Python一些资料和一些乱七八糟的东西。
