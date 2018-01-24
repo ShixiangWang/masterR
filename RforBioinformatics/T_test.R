@@ -3,10 +3,10 @@ T_test = function(data, group1, group2, adj.method="fdr"){
   # the others columns cotain gene expression, samples' name should be colnames
   # group1, group2 are used to compare two groups of data
   # adj.method defines which method used to adjust p values
-  
+
   colnames(data)[1] = "geneSymbol"
-  # only get samples we wanna to compare, be sure 
-  # all names in group1 and group2 can match colnames of data 
+  # only get samples we wanna to compare, be sure
+  # all names in group1 and group2 can match colnames of data
   if (!all(c(group1, group2)%in%colnames(data))){
     stop("Error! The names in group1 and group2 must be in column names of data.")
   }
